@@ -3,7 +3,7 @@
 Web/API developer in Belgrade, moving into **AI automation**: I connect forms, inboxes, CRMs, calendars and LLMs so that busy people stop doing repetitive admin by hand.
 
 - 🛠️ PHP, Python, SQL, Docker, REST APIs, webhooks, n8n, Make, Claude/OpenAI APIs
-- 📦 Day job: building and maintaining web apps and API integrations, including a WebDAM → Bynder DAM migration
+- 📦 Day job: building and maintaining web apps and API integrations
 - 🏛️ Many of my projects come from Belgrade's independent cultural scene, where real venues have real admin problems
 
 ## What's here
